@@ -13,6 +13,11 @@ import org.testng.Assert;
 
 import java.io.IOException;
 
+/**
+ * UserSteps class contains step definitions for user-related actions in the Cucumber tests.
+ * It includes methods for navigating to the login page, logging in, and verifying the welcome message.
+ */
+
 public class TodoSteps {
 
     // WebDriver instance to interact with the browser
